@@ -1,0 +1,2 @@
+# moretion_plugin_blender
+魔迅动捕配套blender插件
